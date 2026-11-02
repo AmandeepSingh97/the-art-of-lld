@@ -1,0 +1,9 @@
+# Build artifacts
+build/
+.build/
+out/
+.tooling/
+*.class
+
+# Downloaded test dependency (fetch via scripts/setup-test-deps.sh)
+tools/junit-platform-console-standalone.jar
